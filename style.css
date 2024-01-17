@@ -34,4 +34,16 @@ body {
 
 .answer {
   color: #666;
+  max-height: 0;
+  overflow: hidden;
+}
+
+/* Active */
+
+.fa-caret-down.active {
+  transform: rotate(-180deg);
+}
+
+.answer.active {
+  max-height: fit-content;
 }
