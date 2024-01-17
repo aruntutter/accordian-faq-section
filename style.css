@@ -30,12 +30,14 @@ body {
 
 .fa-caret-down {
   margin-right: 16px;
+  transition: transform 0.2s;
 }
 
 .answer {
   color: #666;
   max-height: 0;
   overflow: hidden;
+  transition: max-height 0.2s;
 }
 
 /* Active */
@@ -44,6 +46,6 @@ body {
   transform: rotate(-180deg);
 }
 
-.answer.active {
+/* .answer.active {
   max-height: fit-content;
-}
+} */
