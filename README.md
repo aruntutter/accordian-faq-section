@@ -23,7 +23,7 @@ A simple FAQ section with an accordion-style interface, built using HTML, CSS, a
 
 ## Screenshot
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ## Demo
 
