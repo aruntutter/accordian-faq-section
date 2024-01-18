@@ -14,8 +14,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
-- Live Demo: [Live Demo URL]()
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/accordian-faq-section)
+- Live Demo: [Live Demo URL](https://nimble-strudel-c5f3ad.netlify.app/)
 
 ## Description
 
@@ -27,7 +27,7 @@ A simple FAQ section with an accordion-style interface, built using HTML, CSS, a
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://nimble-strudel-c5f3ad.netlify.app/).
 
 ## Features
 
